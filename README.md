@@ -13,7 +13,7 @@
 
 | 🖥️ <b>PowerShell</b> | ⌨️ <b>Python</b> | 📓<b>Placeholder 1</b> | 
 | ----------------- | ------------- | -------------------- |
-| [PlaceHolder 1](https://github.com/joshmadakor1/Algorithms-Practice)| [PlaceHolder 1](https://github.com/joshmadakor1/Algorithms-Practice)| [PlaceHolder 1](https://github.com/joshmadakor1/Algorithms-Practice)|
+| [Gather Information](https://github.com/mikemussaw/Windows-PowerShell/tree/main/Gathering%20Information)| [PlaceHolder 1](https://github.com/joshmadakor1/Algorithms-Practice)| [PlaceHolder 1](https://github.com/joshmadakor1/Algorithms-Practice)|
 | [PlaceHolder 2](https://github.com/joshmadakor1/Algorithms-Practice)| [PlaceHolder 2](https://github.com/joshmadakor1/Algorithms-Practice)| [PlaceHolder 2](https://github.com/joshmadakor1/Algorithms-Practice)|
 | [PlaceHolder 3](https://github.com/joshmadakor1/Algorithms-Practice)| [PlaceHolder 3](https://github.com/joshmadakor1/Algorithms-Practice)| [PlaceHolder 3](https://github.com/joshmadakor1/Algorithms-Practice)|
 | [PlaceHolder 4](https://github.com/joshmadakor1/Algorithms-Practice)| [PlaceHolder 4](https://github.com/joshmadakor1/Algorithms-Practice)| [PlaceHolder 4](https://github.com/joshmadakor1/Algorithms-Practice)|

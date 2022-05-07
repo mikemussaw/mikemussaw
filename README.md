@@ -1,4 +1,4 @@
-<h1>How's it going, I'm Michael! <br/><a href="">[Placeholder 1]</a>, <a href="">Resume</a>, <a href="">Certification</a></h1>
+<h1>How's it going, I'm Michael! <br/><a href="">Resume</a>, <a href="">Certification</a></h1>
 
 <h2>My Projects:</h2>
 

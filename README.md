@@ -4,7 +4,7 @@
 	 <b> I am a IT professional thats been in the field for 4+ years. I graduated from California State University, Los Angeles with a bachelor of science in Computer Information systems. My career growth begin in the Casino industry, and now in the Aerospace government contract work. </b> <br /> <br />
 
 - <b>Resume</b>
-  - [Click Here](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Click Here](https://github.com/mikemussaw)
 - <b>Certifications</b>
   - [CompTIA Security +](https://www.credly.com/badges/d34fd816-6436-4a50-87e5-eab1069e7fe7/public_url)
 

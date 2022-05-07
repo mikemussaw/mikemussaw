@@ -13,19 +13,19 @@
 
 | 🖥️ <b>PowerShell</b> | ⌨️ <b>Python</b> | 📓<b>How-to Guides</b> | 
 | ----------------- | ------------- | -------------------- |
-| [Gather Information](https://github.com/mikemussaw/Windows-PowerShell/tree/main/Gathering%20Information)| [Python PlaceHolder 1](https://github.com/joshmadakor1/Algorithms-Practice)| [ Future PlaceHolder 1](https://github.com/joshmadakor1/Algorithms-Practice)|
-| [Quality of Life](https://github.com/mikemussaw/Windows-PowerShell/tree/main/Quality%20of%20Life%20Things)| [Python PlaceHolder 2](https://github.com/joshmadakor1/Algorithms-Practice)| [Future PlaceHolder 2](https://github.com/joshmadakor1/Algorithms-Practice)|
-| [Remove Start Menu Tiles](https://github.com/mikemussaw/Windows-PowerShell/tree/main/Remove%20Start%20Menu%20Tiles)| [Python PlaceHolder 3](https://github.com/joshmadakor1/Algorithms-Practice)| [Future PlaceHolder 3](https://github.com/joshmadakor1/Algorithms-Practice)|
-| [Stop Services](https://github.com/mikemussaw/Windows-PowerShell/tree/main/Stop%20Windows%20Services)| [Python PlaceHolder 4](https://github.com/joshmadakor1/Algorithms-Practice)| [Future PlaceHolder 4](https://github.com/joshmadakor1/Algorithms-Practice)|
-| [PlaceHolder 5](https://github.com/joshmadakor1/Algorithms-Practice)| [Python PlaceHolder 5](https://github.com/joshmadakor1/Algorithms-Practice)| [Future PlaceHolder 5](https://github.com/joshmadakor1/Algorithms-Practice)|
+| [Gather Information](https://github.com/mikemussaw/Windows-PowerShell/tree/main/Gathering%20Information)| [Python PlaceHolder 1](https://github.com/mikemussaw)| [ Future PlaceHolder 1](https://github.com/mikemussaw)|
+| [Quality of Life](https://github.com/mikemussaw/Windows-PowerShell/tree/main/Quality%20of%20Life%20Things)| [Python PlaceHolder 2](https://github.com/mikemussaw)| [Future PlaceHolder 2](https://github.com/mikemussaw)|
+| [Remove Start Menu Tiles](https://github.com/mikemussaw/Windows-PowerShell/tree/main/Remove%20Start%20Menu%20Tiles)| [Python PlaceHolder 3](https://github.com/mikemussaw)| [Future PlaceHolder 3](https://github.com/mikemussaw)|
+| [Stop Services](https://github.com/mikemussaw/Windows-PowerShell/tree/main/Stop%20Windows%20Services)| [Python PlaceHolder 4](https://github.com/mikemussaw)| [Future PlaceHolder 4](https://github.com/mikemussaw)|
+| [PlaceHolder 5](https://github.com/mikemussaw)| [Python PlaceHolder 5](https://github.com/mikemussaw)| [Future PlaceHolder 5](https://github.com/mikemussaw)|
   
 <h2>:notebook:My Notes</h2>
 
 - <b>Windows</b>
 
-  - [PlaceHolder 1](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [PlaceHolder 2](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [PlaceHolder 3](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [PlaceHolder 1](https://github.com/mikemussaw)
+  - [PlaceHolder 2](https://github.com/mikemussaw)
+  - [PlaceHolder 3](https://github.com/mikemussaw)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

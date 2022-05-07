@@ -1,6 +1,6 @@
 # How's it going, I'm Michael!
 
-<h2>About Me:</h2>
+<h2>:adult:About Me:</h2>
 	 <b> I am a IT professional thats been in the field for 4+ years. I graduated from California State University, Los Angeles with a bachelor of science in Computer Information systems. My career growth begin in the Casino industry, and now in the Aerospace government contract work. </b> <br /> <br />
 
 - <b>Resume</b>

@@ -24,6 +24,9 @@
 - <b>Windows</b>
 
   - [My Public Notes](https://github.com/mikemussaw/My-Notes-Public)
+- <b>DevOps Notes</b>
+
+  - [My Public Notes](https://github.com/mikemussaw/My-Notes-Public)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

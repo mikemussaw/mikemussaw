@@ -23,9 +23,7 @@
 
 - <b>Windows</b>
 
-  - [PlaceHolder 1](https://github.com/mikemussaw)
-  - [PlaceHolder 2](https://github.com/mikemussaw)
-  - [PlaceHolder 3](https://github.com/mikemussaw)
+  - [My Public Notes](https://github.com/mikemussaw/My-Notes-Public)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

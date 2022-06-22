@@ -26,7 +26,7 @@
   - [My Public Notes](https://github.com/mikemussaw/My-Notes-Public)
 - <b>DevOps Notes</b>
 
-  - [My Public Notes](https://github.com/mikemussaw/My-Notes-Public)
+  - [My Public Notes](https://github.com/mikemussaw)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

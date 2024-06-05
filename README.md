@@ -25,16 +25,16 @@
     <th>Description</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/username/repo1">PowerShell Script Project 1</a></td>
-    <td>Description of Project 1</td>
+    <td><a href="https://github.com/username/repo1">Windows Domain Hardening</a></td>
+    <td>Configure and use DoD DCSA/DISA STIG's to Hardened Windows domain environment</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/username/repo2">PowerShell Script Project 2</a></td>
-    <td>Description of Project 2</td>
+    <td><a href="https://github.com/username/repo2">Windows Stand-Alone Hardening</a></td>
+    <td>Configure and use DoD DCSA/DISA STIG's to Hardened Windows stand-alone environment</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/username/repo3">PowerShell Script Project 3</a></td>
-    <td>Description of Project 3</td>
+    <td><a href="https://github.com/username/repo3">Parse Windows Event ID's for auditing</a></td>
+    <td>Using PowerShell to parse Windows Event ID's to something human readable to observe activity</td>
   </tr>
 </table>
 
@@ -45,16 +45,16 @@
     <th>Description</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/username/repo4">Bash Script Project 1</a></td>
-    <td>Description of Project 1</td>
+    <td><a href="https://github.com/username/repo4">Create RHEL ISO Hardening</a></td>
+    <td>How-to create RHEL Kickstart, GRUB menu, create RHEL ISO, and apply hardening using DoD DCSA/DISA STIG requirements</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/username/repo5">Bash Script Project 2</a></td>
-    <td>Description of Project 2</td>
+    <td><a href="https://github.com/username/repo5">Trellix Install Script</a></td>
+    <td>Install and remove Trellix (aka McAfee) anti-virus software on RHEL-like operating systems</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/username/repo6">Bash Script Project 3</a></td>
-    <td>Description of Project 3</td>
+    <td><a href="https://github.com/username/repo6">SSH Copy-Job</a></td>
+    <td>Stand-alone bash script to copy over SSH-keys and invoke remote commands</td>
   </tr>
 </table>
 
@@ -65,15 +65,16 @@
     <th>Description</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/username/repo7">Other Bash Script Project 1</a></td>
-    <td>Description of Project 1</td>
+    <td><a href="https://github.com/username/repo7">VMWare ESXi check hardening profile</a></td>
+    <td>Use PowerShell script w/ PowerCLI to check DCSA/DISA STIG requirements of VMWare ESXi</td>
   </tr>
+  <!--
   <tr>
-    <td><a href="https://github.com/username/repo8">Other Bash Script Project 2</a></td>
+    <td><a href="https://github.com/username/repo8">Other Project 2</a></td>
     <td>Description of Project 2</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/username/repo9">Other Bash Script Project 3</a></td>
+    <td><a href="https://github.com/username/repo9">Other Project 3</a></td>
     <td>Description of Project 3</td>
   </tr>
 </table>

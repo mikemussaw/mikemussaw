@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Resume:</h2>
 
-  [![Download](https://img.shields.io/badge/Download-Project-green)](https://github.com/mikemussaw/Resume/blob/main/Resume/Resume_2024v1.docx)
+  [![Download](https://img.shields.io/badge/Download-Project-green)](https://github.com/mikemussaw/Resume/archive/refs/heads/main.zip)
 
 <h2>👨‍💻 Test1:</h2>
 
